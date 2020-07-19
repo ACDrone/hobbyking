@@ -1,2 +1,1 @@
-Retrieves LiPo battery data from HobbyKing.com - gathering data from the "Product Config Table".
-Uses the "HobbyKing BatteryIdList":http://scraperwiki.com/scrapers/hobbyking_batteryidlist/ scraper as a source of LiPo product ids.
+[![Run on Repl.it](https://repl.it/badge/github/jaapp/hobbyking)](https://repl.it/github/jaapp/hobbyking)
